@@ -1,4 +1,3 @@
-# Ivan Project Portfolio
 Data Science Projects Portfolio
 
 # [Project 1: Methods For High-Dimensional Space Visualization Using Spotify Song Data](www.google.com)
