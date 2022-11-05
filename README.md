@@ -5,11 +5,11 @@ Data Science Projects Portfolio
 - Built a dataset out of the extracted information
 - Used T-SNE to visualize relationships between data points in  high-dimensional spaces
 - Was able to tell certain genres appart by looking at the regions where data points were more densely packed
-![](/images/Screenshot_3.jpg)
+![](/images/Screenshot_4.jpg)
 
 # [Project 2: Classifying Spotify Songs | Will I like this Song?](www.google.com)
 - Scrapped Spotify Song Data for multiple playlists
 - Built a dataset out of the extracted information
 - Evaluated multiple models for classification tasks
 - Performed hyperparameter tunning, grid search and cross validation to select the best model available 
-![](/images/Screenshot_3.jpg)
+![](/images/Screenshot_1.jpg)
