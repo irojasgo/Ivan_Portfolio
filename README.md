@@ -42,10 +42,10 @@ Data Science Projects Portfolio
 # [Project 7: IOT Device Identification | Telling devices appart using Gradient Boosted Trees](https://github.com/irojasgo/)
 - Identified different IOT devices based on metrics associated with the same
 - Cross validation and Grid Search for model perforance evaluation
-![](/images/Screenshot_7.jpg)
+![](/images/Screenshot_8.jpg)
 
 # [Project 8: IOT Device Identification, the PCA Version | Telling devices appart using Gradient Boosted Trees](https://github.com/irojasgo/)
 - Identified different IOT devices based on metrics associated with the same
 - Cross validation and Grid Search for model perforance evaluation
 - Used PCA to reduce dimentions and reduce model training time
-![](/images/Screenshot_8.jpg)
+![](/images/Screenshot_7.jpg)
