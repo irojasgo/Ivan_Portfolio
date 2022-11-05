@@ -21,7 +21,7 @@ Data Science Projects Portfolio
 - Performed hyperparameter tunning, grid search and cross validation to select the best model available 
 ![](/images/Screenshot_1.jpg)
 
-# [Project 4: Summarizing Reddit Posts | Wallstreetbets](www.google.com)
+# [Project 4: Summarizing Reddit Posts | Wallstreetbets](https://github.com/irojasgo/redditsummarizer)
 - Scrapped Reddit post data out of the Wallstreetbets subreddit
 - Built a dataset out of the extracted information
 - Used Hugginface's transformers to summarize post content
