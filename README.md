@@ -27,7 +27,7 @@ Data Science Projects Portfolio
 - Used Hugginface's transformers to summarize post content
 ![](/images/Screenshot_2.jpg)
 
-# [Project 5: Topic Modeling using NMF | Extracting topics from AWS Documentation](www.google.com)
+# [Project 5: Topic Modeling using NMF | Extracting topics from AWS Documentation](https://github.com/irojasgo/nmf_awstopics)
 - Used Non-Negative Matrix Factorization to model topics from AWS document extracts
 - Performed Natural Language Processing preprocessing tasks 
 ![](/images/Screenshot_3.jpg)
