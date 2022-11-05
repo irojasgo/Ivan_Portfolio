@@ -32,7 +32,7 @@ Data Science Projects Portfolio
 - Performed Natural Language Processing preprocessing tasks 
 ![](/images/Screenshot_3.jpg)
 
-# [Project 6: Named-Entity Recognition from Reddit Posts | Identifying Meme-Stocks](www.google.com)
+# [Project 6: Named-Entity Recognition from Reddit Posts | Identifying Meme-Stocks](https://github.com/irojasgo/redditner)
 - Scrapped Reddit post data out of the Wallstreetbets subreddit
 - Built a dataset out of the extracted information
 - Performed Natural Language Processing preprocessing tasks
