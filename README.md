@@ -20,7 +20,14 @@ Data Science Projects Portfolio
 - Used Hugginface's transformers to summarize post content
 ![](/images/Screenshot_2.jpg)
 
-# [Project 3: Topic Modeling using NMF | Extracting topics from AWS Documentation](www.google.com)
+# [Project 4: Topic Modeling using NMF | Extracting topics from AWS Documentation](www.google.com)
 - Used Non-Negative Matrix Factorization to model topics from AWS document extracts
 - Performed Natural Language Processing preprocessing tasks 
 ![](/images/Screenshot_3.jpg)
+
+# [Project 5: Named-Entity Recognition from Reddit Posts | Identifying Meme-Stocks](www.google.com)
+- Scrapped Reddit post data out of the Wallstreetbets subreddit
+- Built a dataset out of the extracted information
+- Performed Natural Language Processing preprocessing tasks
+- Extracted company names from these posts in order to identify potential meme-stocks
+![](/images/Screenshot_5.jpg)
