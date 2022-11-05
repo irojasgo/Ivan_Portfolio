@@ -14,7 +14,7 @@ Data Science Projects Portfolio
 - Tested the model submitting requests from different endpoints
 ![](/images/Screenshot_6.jpg)
 
-# [Project 3: Classifying Spotify Songs | Will I like this Song?](www.google.com)
+# [Project 3: Classifying Spotify Songs | Will I like this Song?](https://github.com/irojasgo/spotifyclassifier)
 - Scrapped Spotify Song Data for multiple playlists
 - Built a dataset out of the extracted information
 - Evaluated multiple models for classification tasks
