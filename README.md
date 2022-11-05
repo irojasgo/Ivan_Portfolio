@@ -7,7 +7,7 @@ Data Science Projects Portfolio
 - Was able to tell certain genres appart by looking at the regions where data points were more densely packed
 ![](/images/Screenshot_4.jpg)
 
-# [Project 2: Serverless Machine Learning Model Deployment | Google Cloud](www.google.com)
+# [Project 2: Serverless Machine Learning Model Deployment | Google Cloud](https://github.com/irojasgo/gcp_serverless_ml)
 - Trained a machine learning model and pipelined all preprocessing steps
 - Encapsulated the model into a binary file
 - Deployed the model as an endpoint using GCP's cloud functions
