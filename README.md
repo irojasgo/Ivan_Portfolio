@@ -23,4 +23,4 @@ Data Science Projects Portfolio
 # [Project 3: Topic Modeling using NMF | Extracting topics from AWS Documentation](www.google.com)
 - Used Non-Negative Matrix Factorization to model topics from AWS document extracts
 - Performed Natural Language Processing preprocessing tasks 
-![](/images/Screenshot_4.jpg)
+![](/images/Screenshot_3.jpg)
