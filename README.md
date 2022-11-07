@@ -39,7 +39,7 @@ Data Science Projects Portfolio
 - Extracted company names from these posts in order to identify potential meme-stocks
 ![](/images/Screenshot_5.jpg)
 
-# [Project 7: IOT Device Identification | Telling devices appart using Gradient Boosted Trees](https://github.com/irojasgo/)
+# [Project 7: IOT Device Identification | Telling devices appart using Gradient Boosted Trees](https://github.com/irojasgo/iotdevices)
 - Identified different IOT devices based on metrics associated with the same
 - Cross validation and Grid Search for model perforance evaluation
 ![](/images/Screenshot_8.jpg)
