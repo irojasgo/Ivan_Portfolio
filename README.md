@@ -49,3 +49,9 @@ Data Science Projects Portfolio
 - Cross validation and Grid Search for model perforance evaluation
 - Used PCA to reduce dimentions and reduce model training time
 ![](/images/Screenshot_7.jpg)
+
+# [Project 9: Anomaly Detection using Isolation Forests|  AWS EC2 & RDS CPU usage data](https://github.com/irojasgo/aws_anomaly_detection)
+- Used Isolation Forests to detec anomalies in CPU consumption for AWS EC2 & RDS instances
+- Performed Data Preprocessing on Training Data
+- Ran visual tests to see what the effect of different Datasets and contamination metrics would result into 
+![](/images/Screenshot_7.jpg)
