@@ -1,4 +1,4 @@
-Data Science Projects Portfolio
+# Data Science Projects Portfolio
 
 # [Project 1: Methods For High-Dimensional Space Visualization Using Spotify Song Data](https://github.com/irojasgo/spotifytsne)
 - Scrapped Spotify Song Data for multiple playlists
