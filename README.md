@@ -1,5 +1,12 @@
 # Data Science Projects Portfolio
 
+# [Retrieval Augmented Generation using OpenAI GPT 3.5 Turbo as reasoning engine and FAISS as retriever](https://github.com/irojasgo/openai_rag_faiss)
+- Interacted with OpenAI - GPT 3.5 Turbo as reasoning engine
+- Did Retrieval Augmented Generation (RAG) with this LLM
+- Leveraged FAISS library to do document retrieval
+- Used the retrieved text as context for the LLM
+![](/images/gpt_faiss_rag)
+
 # [Retrieval Augmented Generation using Google Palm as reasoning engine and FAISS as retriever](https://github.com/irojasgo/gcp_faiss_rag)
 - Interacted with Google's LLM - Palm2 using text-bison as reasoning engine
 - Did Retrieval Augmented Generation (RAG) with this LLM
