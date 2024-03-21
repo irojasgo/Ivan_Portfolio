@@ -5,7 +5,7 @@
 - Created a CV screening application using this LLM
 - Explored the effects of no-shot and one-shot learning
 - Did prompt engineering to produce different results for different use cases
-![](/images/Screenshot_4.jpg)
+![](/images/gcp_llm)
 
 
 # [Methods For High-Dimensional Space Visualization Using Spotify Song Data](https://github.com/irojasgo/spotifytsne)
