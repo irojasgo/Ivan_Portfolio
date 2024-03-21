@@ -5,7 +5,7 @@
 - Did Retrieval Augmented Generation (RAG) with this LLM
 - Leveraged FAISS library to do document retrieval
 - Used the retrieved text as context for the LLM
-![](/images/gpt_faiss_rag)
+![](/images/gpt_rag_faiss)
 
 # [Retrieval Augmented Generation using Google Palm as reasoning engine and FAISS as retriever](https://github.com/irojasgo/gcp_faiss_rag)
 - Interacted with Google's LLM - Palm2 using text-bison as reasoning engine
