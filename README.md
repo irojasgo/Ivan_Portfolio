@@ -1,5 +1,11 @@
 # Data Science Projects Portfolio
 
+# [Google Palm & Langchain Agents. Teaching the model how to look for information in internet](https://github.com/irojasgo/googlepalm_langchain_agents)
+- Used predefined langchain agents
+- Created new agents
+- Used Google Palm as LLM to test performance when selecting a tool in accordance with the question placed
+![](/images/agents_palm)
+
 # [OpenAI Transcription model Whisper in combitation with GPT 3.5 to extract valuable insights from raw audio files](https://github.com/irojasgo/speechtotext_openai)
 - Interacted with OpenAI - GPT 3.5 Turbo as reasoning engine
 - Did speech to text transcription using OpenAI's Whisper model
