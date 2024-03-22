@@ -1,5 +1,12 @@
 # Data Science Projects Portfolio
 
+# [OpenAI Transcription model Whisper in combitation with GPT 3.5 to extract valuable insights from raw audio files](https://github.com/irojasgo/speechtotext_openai)
+- Interacted with OpenAI - GPT 3.5 Turbo as reasoning engine
+- Did speech to text transcription using OpenAI's Whisper model
+- Crafted prompts to extract valuable information from these transcripts in a semi-structured way
+- End to end raw audio information extraction to information being presented in tabular format
+![](/images/whisper_gpt)
+
 # [Retrieval Augmented Generation using OpenAI GPT 3.5 Turbo as reasoning engine and FAISS as retriever](https://github.com/irojasgo/openai_rag_faiss)
 - Interacted with OpenAI - GPT 3.5 Turbo as reasoning engine
 - Did Retrieval Augmented Generation (RAG) with this LLM
