@@ -1,4 +1,10 @@
-# Data Science Projects Portfolio
+# Data Science & ML Projects Portfolio
+
+# [Retrieval Augmented Generation with OpenAI's GPT as Reasoning Engine and Pinecone as remote vectorstore](https://github.com/irojasgo/pinecone_gpt_rag)
+- RAG with GPT as reasoning engine
+- Pinecone DB as remote Vector database
+- Context injection to LLM by parsing contents of PDF files
+![](/images/rag_pinecone_gpt)
 
 # [Google Palm & Langchain Agents. Teaching the model how to look for information in internet](https://github.com/irojasgo/googlepalm_langchain_agents)
 - Used predefined langchain agents
